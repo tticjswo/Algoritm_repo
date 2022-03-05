@@ -31,3 +31,7 @@
                   {10,INF,INF,INF,4,0,INF},
                   {INF,INF,8,INF,INF,INF,0}
                };
+5. .Prim_And_Kruskal
+   - Prim Algoritm과 Kruskal Algoritm을 이용한 MST (최소 신장 트리 )찾기
+   - 보고서 참고.
+
